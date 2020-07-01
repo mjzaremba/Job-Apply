@@ -1,5 +1,5 @@
 # Job-Apply
-# Michał Zaremba
+### Michał Zaremba
 
 Branch Mhe:
 (Python)Projekt robiony w ramach przedmiotu na studia noszącego nazwę Metaheurystyki. Moim zadaniem było rozwiązać zadany problem używając metaheurystyk, takich jak: Brute Force, Hill Climbing, czy Tabu.
