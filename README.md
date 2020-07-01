@@ -1,7 +1,6 @@
 ## Metaheurystics - Post Correspondence Problem
 ### Michał Zaremba
 
-(Python)Projekt robiony w ramach przedmiotu na studia noszącego nazwę Metaheurystyki. Moim zadaniem było rozwiązać zadany problem używając metaheurystyk, takich jak: Brute Force, Hill Climbing, czy Tabu.<br>
 Post Correspondence Problem - Przykład nierozstrzygalnego problemu decyzyjnego.<br>
   Z przykładowych list z wartościami stringowymi:<br>
   a1:a, a2:ab, a3:bba<br>
